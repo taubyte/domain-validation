@@ -1,8 +1,11 @@
 # taubyte/domain-validation
 
+[![GoDoc](https://godoc.org/github.com/taubyte/domain-validation?status.svg)](https://pkg.go.dev/github.com/taubyte/domain-validation)
+[![Go Report Card](https://goreportcard.com/badge/taubyte/domain-validation)](https://goreportcard.com/report/taubyte/domain-validation)
+
 This repos is used to validate ownership of DNS domains
 
-# Generate Keys
+## Generate Keys
 To use this package you need to generate a symetric pair for keys:
 
 ```
@@ -15,7 +18,7 @@ openssl ec -in tprivate.key -pubout -out public.pem
 NOTE: the private key need to be kept safe.
 
 
-# Maintainers
+## Maintainers
  - Samy Fodil @samyfodil
  - Tafseer Khan @tafseer-khan
  - Aron Jalbuena @arontaubyte
