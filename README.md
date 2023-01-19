@@ -1,7 +1,10 @@
 # taubyte/domain-validation
 
-[![GoDoc](https://godoc.org/github.com/taubyte/domain-validation?status.svg)](https://pkg.go.dev/github.com/taubyte/domain-validation)
+[![Release](https://img.shields.io/github/release/taubyte/domain-validation.svg)](https://github.com/taubyte/domain-validation/releases)
+[![License](https://img.shields.io/github/license/taubyte/domain-validation)](LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/taubyte/domain-validation)](https://goreportcard.com/report/taubyte/domain-validation)
+[![GoDoc](https://godoc.org/github.com/taubyte/domain-validation?status.svg)](https://pkg.go.dev/github.com/taubyte/domain-validation)
+[![Discord](https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord)](https://tau.link/discord)
 
 This repos is used to validate ownership of DNS domains
 
