@@ -6,7 +6,7 @@
 [![GoDoc](https://godoc.org/github.com/taubyte/domain-validation?status.svg)](https://pkg.go.dev/github.com/taubyte/domain-validation)
 [![Discord](https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord)](https://tau.link/discord)
 
-This repos is used to validate ownership of DNS domains
+Used to validate ownership of DNS domains
 
 ## Generate Keys
 To use this package you need to generate a symetric pair for keys:
