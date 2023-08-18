@@ -13,6 +13,9 @@ type Resolver interface {
 var resolver Resolver = net.DefaultResolver
 
 func UseResolver(r Resolver) Resolver {
-	resolver = r
+	if r != nil {
+		resolver = r
+	}
+
 	return resolver
 }
